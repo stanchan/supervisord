@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/ochinchina/supervisord/config"
-	"github.com/ochinchina/supervisord/types"
-	"github.com/ochinchina/supervisord/xmlrpcclient"
+	"github.com/stanchan/supervisord/config"
+	"github.com/stanchan/supervisord/types"
+	"github.com/stanchan/supervisord/xmlrpcclient"
 	"os"
 	"strings"
 )

@@ -3,8 +3,8 @@ package logger
 import (
 	"errors"
 	"fmt"
-	"github.com/ochinchina/supervisord/events"
-	"github.com/ochinchina/supervisord/faults"
+	"github.com/stanchan/supervisord/events"
+	"github.com/stanchan/supervisord/faults"
 	"io"
 	"io/ioutil"
 	"os"

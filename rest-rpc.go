@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"github.com/ochinchina/supervisord/types"
+	"github.com/stanchan/supervisord/types"
 	"io/ioutil"
 	"net/http"
 )
